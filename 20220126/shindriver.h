@@ -1,0 +1,1 @@
+#define SHINDRIVER_MAJOR 0
